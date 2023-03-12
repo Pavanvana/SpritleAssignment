@@ -1,0 +1,11 @@
+.signup-button {
+  margin-top: 15px;
+  margin-bottom: 30px;
+  background-color: #3b82f6;
+  border: none;
+  outline: none;
+  cursor: pointer;
+  color: #ffffff;
+  padding: 10px;
+  border-radius: 5px;
+}

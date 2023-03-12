@@ -1,0 +1,46 @@
+.main-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-image: url('https://img.collegedekhocdn.com/media/img/news/IIT_B_Online_exams.jpg?tr=h-310,w-615');
+  min-height: 100vh;
+  background-size: cover;
+}
+.buttons-card {
+  border: 2px solid rgb(246, 247, 248);
+  padding: 50px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 10px;
+}
+.student-button {
+  border: none;
+  margin: 50px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  padding-left: 40px;
+  padding-right: 40px;
+  border-radius: 5px;
+  font-family: 'Roboto';
+  font-size: 20px;
+  font-weight: 500;
+  background: transparent;
+  color: #ffffff;
+  background-color: #ee2b09;
+}
+.master-button {
+  margin: 50px;
+  border: none;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  padding-left: 40px;
+  padding-right: 40px;
+  border-radius: 5px;
+  font-family: 'Roboto';
+  font-size: 20px;
+  font-weight: 500;
+  background: transparent;
+  color: #ffffff;
+  background-color: #6935ca;
+}

@@ -1,0 +1,79 @@
+.form-container {
+  background-color: #ffffff;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-right: 30px;
+  padding-left: 30px;
+  display: flex;
+  flex-direction: column;
+  border-radius: 7px;
+  width: 400px;
+}
+.heading {
+  font-family: 'Roboto';
+  color: #231f20;
+  font-size: 40px;
+}
+.label {
+  color: #909090;
+  font-family: 'Roboto';
+  font-size: 13px;
+  font-weight: 500;
+  margin-top: 20px;
+}
+.input {
+  padding: 10px;
+  border: 1px solid #909090;
+  margin-top: 5px;
+  border-radius: 5px;
+  outline: none;
+  cursor: pointer;
+}
+.checkbox-container {
+  display: flex;
+  align-items: center;
+  margin-top: 3px;
+}
+.checkbox {
+  margin-bottom: 20px;
+}
+.checkbox-label {
+  margin-bottom: 20px;
+  font-family: 'Roboto';
+  font-size: 12px;
+  margin-top: 2px;
+}
+.button {
+  background-color: #3b82f6;
+  border: none;
+  outline: none;
+  cursor: pointer;
+  color: #ffffff;
+  padding: 10px;
+  border-radius: 5px;
+}
+.error-msg {
+  color: #ff0000;
+  font-family: 'Roboto';
+  font-size: 13px;
+  margin-top: 0px;
+}
+.new-here {
+  margin-bottom: 20px;
+  margin-top: 10px;
+  font-family: 'Roboto';
+  font-size: 15px;
+  font-weight: bold;
+  margin-right: 10px;
+}
+.signup-container {
+  display: flex;
+  align-items: center;
+}
+.signup {
+  color: #3b82f6;
+  font-family: 'Roboto';
+  font-size: 15px;
+  font-weight: bold;
+  margin-top: 4px;
+}
